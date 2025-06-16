@@ -53,10 +53,10 @@ This project aims to explore and understand key health indicators associated wit
 ### ✅ Correlation Heatmap
 
 ### Correlation Matrix
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](recents/correlation_matrix.png)
 
 ### BMI Distribution
-![BMI Distribution](images/bmi_distribution.png)
+![BMI Distribution](recents/bmi_distribution.png)
 
 ## 🔑 Key Insights
 
