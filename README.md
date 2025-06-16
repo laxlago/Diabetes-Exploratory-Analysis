@@ -1,5 +1,3 @@
-# Diabetes-Exploratory-Analysis
-Exploratory Data Analysis on Diabetes Health Indicators from BRFSS 2015
 # 🩺 Diabetes-Exploratory-Analysis
 
 📊 **Exploratory Data Analysis (EDA) on Diabetes Health Indicators**  
